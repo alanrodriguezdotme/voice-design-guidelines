@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="754px" height="134px" viewBox="0 0 754 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Site-map" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Patterns---Manage" transform="translate(-454.000000, -730.000000)">
+            <g id="Pattern-Section" transform="translate(450.000000, 674.000000)">
+                <g id="Group-3" transform="translate(0.000000, 53.000000)">
+                    <rect id="Rectangle" stroke="#E2E2E2" stroke-width="2" transform="translate(70.996429, 70.500000) rotate(45.000000) translate(-70.996429, -70.500000) " x="21.4964287" y="21" width="99" height="99" rx="12"></rect>
+                    <text id="Invocation" opacity="0.801232329" font-family="SegoeUI-Semilight, Segoe UI" font-size="16" font-weight="300" letter-spacing="-0.4" fill="#0078D4">
+                        <tspan x="36.90625" y="77">Invocation</tspan>
+                    </text>
+                    <rect id="Rectangle-Copy" stroke="#E2E2E2" stroke-width="2" transform="translate(691.492857, 70.003571) rotate(45.000000) translate(-691.492857, -70.003571) " x="641.992857" y="20.5035713" width="99" height="99" rx="12"></rect>
+                    <text id="Success" opacity="0.801232329" font-family="SegoeUI-Semilight, Segoe UI" font-size="16" font-weight="300" letter-spacing="-0.4" fill="#0078D4">
+                        <tspan x="666.025335" y="76.5035713">Success</tspan>
+                    </text>
+                    <rect id="Rectangle-Copy-2" stroke="#E2E2E2" stroke-width="2" x="171.496429" y="10" width="121" height="121" rx="60.5"></rect>
+                    <text id="Ask" opacity="0.801232329" font-family="SegoeUI-Semilight, Segoe UI" font-size="16" font-weight="300" letter-spacing="-0.4" fill="#0078D4">
+                        <tspan x="220.494866" y="77">Ask</tspan>
+                    </text>
+                    <rect id="Rectangle-Copy-3" stroke="#E2E2E2" stroke-width="2" x="320.496429" y="10" width="121" height="121" rx="60.5"></rect>
+                    <text id="Disambiguate" opacity="0.801232329" font-family="SegoeUI-Semilight, Segoe UI" font-size="16" font-weight="300" letter-spacing="-0.4" fill="#0078D4">
+                        <tspan x="336.142522" y="77">Disambiguate</tspan>
+                    </text>
+                    <rect id="Rectangle-Copy-4" stroke="#E2E2E2" stroke-width="2" x="471.496429" y="10" width="121" height="121" rx="60.5"></rect>
+                    <text id="Confirm" opacity="0.801232329" font-family="SegoeUI-Semilight, Segoe UI" font-size="16" font-weight="300" letter-spacing="-0.4" fill="#0078D4">
+                        <tspan x="505.876897" y="77">Confirm</tspan>
+                    </text>
+                    <path id="Line-Copy" d="M305.996429,66 L314.996429,70.5 L305.996429,75 L305.996,71 L298.996429,71 L298.996429,70 L305.996,70 L305.996429,66 Z" fill="#A8A8A8" fill-rule="nonzero"></path>
+                    <path id="Line-Copy-2" d="M455.996429,66 L464.996429,70.5 L455.996429,75 L455.996,71 L448.996429,71 L448.996429,70 L455.996,70 L455.996429,66 Z" fill="#A8A8A8" fill-rule="nonzero"></path>
+                    <path id="Line-Copy-3" d="M608.996429,66 L617.996429,70.5 L608.996429,75 L608.996,71 L601.996429,71 L601.996429,70 L608.996,70 L608.996429,66 Z" fill="#A8A8A8" fill-rule="nonzero"></path>
+                    <path id="Line" d="M151.496429,66 L160.496429,70.5 L151.496429,75 L151.496,71 L144.496429,71 L144.496429,70 L151.496,70 L151.496429,66 Z" fill="#A8A8A8" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

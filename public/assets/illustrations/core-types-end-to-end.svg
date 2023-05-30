@@ -1,0 +1,18 @@
+<svg width="232" height="62" viewBox="0 0 232 62" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect opacity="0.8" width="43.4382" height="43.4382" transform="matrix(0.70362 0.710576 -0.70362 0.710576 30.5645 0)" fill="white"/>
+<rect opacity="0.8" width="43.4382" height="43.4382" transform="matrix(0.70362 0.710576 -0.70362 0.710576 200.882 0)" fill="white"/>
+<g opacity="0.7">
+<ellipse cx="76.5331" cy="31" rx="4.95106" ry="5" fill="white"/>
+<ellipse cx="96.3378" cy="31" rx="4.95106" ry="5" fill="white"/>
+<ellipse cx="116.142" cy="31" rx="4.95106" ry="5" fill="white"/>
+<ellipse cx="135.946" cy="31" rx="4.95106" ry="5" fill="white"/>
+<ellipse cx="155.751" cy="31" rx="4.95106" ry="5" fill="white"/>
+</g>
+<g opacity="0.7">
+<ellipse cx="76.5331" cy="31" rx="4.95106" ry="5" fill="black"/>
+<ellipse cx="96.3378" cy="31" rx="4.95106" ry="5" fill="black"/>
+<ellipse cx="116.142" cy="31" rx="4.95106" ry="5" fill="black"/>
+<ellipse cx="135.946" cy="31" rx="4.95106" ry="5" fill="black"/>
+<ellipse cx="155.751" cy="31" rx="4.95106" ry="5" fill="black"/>
+</g>
+</svg>
